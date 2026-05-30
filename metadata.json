@@ -1,0 +1,6 @@
+{
+  "name": "História do 7.º Ano",
+  "description": "Plataforma educativa e interativa para a disciplina de História do 7.º Ano da Professora Carla Oliveira.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
